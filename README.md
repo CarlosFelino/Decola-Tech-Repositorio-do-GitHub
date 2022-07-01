@@ -1,2 +1,2 @@
 # Repositorio-do-GitHub
-Aqui estarão pastas de todas as matérias do curso na DIO para compartilhar meu progresso
+Aqui esta todo o meu progresso durante o curso na DIO
